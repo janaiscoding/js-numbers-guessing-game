@@ -1,8 +1,16 @@
 # js-numbers-guessing-game
-mdn's number guessing game.    
+mdn's number guessing game. 
 
-I created this in order to continue to use git while learning about Javascript variables
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#numbers_vs._strings
+I have cloned this in order to:
+1. Continue to use git through the Bash terminal
+2. Learn about Javascript variables 
+3. Practice understanding someone else's code.
+
+Found resource from: 
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#numbers_vs._strings 
+Cloned the files from: 
+https://github.com/mdn/learning-area/tree/main/javascript/introduction-to-js-1/first-splash 
+I did not use forking because I wanted to create everything myself.
 
 Notes I took during this lesson: 
 - This file has the CSS styling and the JS scripts in the HTML file, internal.
